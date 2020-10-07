@@ -1,5 +1,5 @@
 # Skyline
-### Weather forecasting android application with simple and responsive user interface.
+### Weather forecasting android application with simple and responsive user interface. Data is fetched from openweathermap.org API
 ### -> When we launch this application, first of all a cool splashscreen with animations appears.
 ![1](https://user-images.githubusercontent.com/44981613/95296576-a3bb2680-0896-11eb-957b-f8081cddf451.jpg)
 ### -> It shows real time weather report of user's current location.
