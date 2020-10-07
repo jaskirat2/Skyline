@@ -2,7 +2,7 @@
 ### Weather forecasting android application with simple and responsive user interface.
 ### -> When we launch this application, first of all a cool splashscreen with animations appears.
 ![1](https://user-images.githubusercontent.com/44981613/95296576-a3bb2680-0896-11eb-957b-f8081cddf451.jpg)
-
+### -> It shows real time weather report of user's current location.
 ![2](https://user-images.githubusercontent.com/44981613/95296605-ad448e80-0896-11eb-851c-3fca0400ba57.jpg)
 ### lorem ipsum
 ![3](https://user-images.githubusercontent.com/44981613/95296595-aa499e00-0896-11eb-8951-e9e46bb9c74d.jpg)
