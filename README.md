@@ -7,5 +7,5 @@
 ### -> Weather forecast of 5 more days is also displayed.
 ![3](https://user-images.githubusercontent.com/44981613/95296595-aa499e00-0896-11eb-8951-e9e46bb9c74d.jpg)
 ![4](https://user-images.githubusercontent.com/44981613/95296599-ab7acb00-0896-11eb-8b05-3d3552428b24.jpg)
-### lorem ipsum
+### -> Another feature is: User can also search for weather report of any location
 ![5](https://user-images.githubusercontent.com/44981613/95296600-acabf800-0896-11eb-92e2-d21678195958.jpg)
