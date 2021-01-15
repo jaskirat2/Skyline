@@ -1,7 +1,7 @@
 # Skyline
 ### Weather forecasting android application with simple and responsive user interface. Data is fetched from openweathermap.org API
 ## Features:
-### 🔰 Skyline shows real time weather report of user's current location.
+### 🔰 Skyline shows real time weather report of user's current locatio.
 ### 🔰 Weather forecast of 5 more days is also displayed.
 ### 🔰 UI is simple and responsive.
 ### 🔰 User can also search for weather report of any particular location.
